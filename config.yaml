@@ -1,0 +1,5 @@
+metrics:
+  receivers:
+    hostmetrics:
+      type: hostmetrics
+      collection_interval: 180s
